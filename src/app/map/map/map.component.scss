@@ -1,0 +1,24 @@
+// .main {
+//     display: flex;
+// }
+
+// #map {
+//     height: 700px;
+//     width: 800px;
+//     // display: flex;
+//     margin: 10px;
+// }
+
+.map {
+    height: 700px;
+    width: 800px;
+    display: flex;
+    margin: auto;
+    position: relative;
+}
+
+.some {
+    background-color: aliceblue;
+    top: 0;
+    left: 500px;
+}

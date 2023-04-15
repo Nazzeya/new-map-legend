@@ -1,0 +1,11 @@
+<div class="main">
+    <div 
+    class="map" 
+    leaflet 
+    [leafletOptions]="options"
+    [leafletLayersControl]="layersControl"
+    (click)="translate(layersControl)">
+    </div>
+</div>
+
+<!-- [leafletLayersControl]="layersControl | layer"> -->
