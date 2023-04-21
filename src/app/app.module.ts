@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { LayersPipe } from './pipes/layers.pipe';
+// import { LayersPipe } from './pipes/layers.pipe';
 
 @NgModule({
   declarations: [
